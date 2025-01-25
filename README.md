@@ -46,8 +46,6 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MukitHossen7/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/MukitHossen7)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MukitHossen7)  
