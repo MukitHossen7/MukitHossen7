@@ -1,7 +1,7 @@
 ### Hi there 👋, I'am Mukit Hossen
-#### I am Font-end React Developer
 ![I am Font-end React Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+#### I am Font-end React Developer
 I am a React Developer. I specialize in building modern, responsive web applications using React, Tailwind, and MongoDB. I also have experience in creating static websites with HTML5, CSS3, and JavaScript (ES6).
 
 Skills:  REACT / JS / HTML / CSS/Tailwind
