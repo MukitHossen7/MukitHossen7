@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Mukit Hossen
 ![I am a Front-end React Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
----
 
 #### 🚀 About Me  
 I am a **Front-end React Developer** passionate about building modern, responsive, and user-friendly web applications. I specialize in **React**, **TailwindCSS**, and **MongoDB** while maintaining a strong foundation in **HTML5**, **CSS3**, and **JavaScript (ES6)**.  
@@ -10,7 +9,6 @@ I am a **Front-end React Developer** passionate about building modern, responsiv
 
 💼 Open to collaborating on exciting projects and contributing to the open-source community.  
 
----
 
 ### 🛠️ Skills  
 
@@ -27,7 +25,6 @@ I am a **Front-end React Developer** passionate about building modern, responsiv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />
 </div>
 
----
 
 ### 🌐 Connect with Me  
 
@@ -43,17 +40,15 @@ I am a **Front-end React Developer** passionate about building modern, responsiv
   </a>
 </div>
 
----
 
 ### 🏆 Achievements  
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=MukitHossen7&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 ### 📊 GitHub Stats  
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&count_private=true&theme=radical" alt="Mukit Hossen's GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukitHossen7&theme=radical" alt="GitHub Streak" />
@@ -61,11 +56,10 @@ I am a **Front-end React Developer** passionate about building modern, responsiv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
 
 ### 🔗 Fun Badges  
 
-<div align="center">
+<div align="left">
   <a href="https://archiveprogram.github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40" alt="Arctic Code Vault Contributor" />
   </a>
