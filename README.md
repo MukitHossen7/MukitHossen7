@@ -50,14 +50,12 @@ I am a **Front-end React Developer** passionate about building modern, responsiv
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MukitHossen7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🔗 Fun Badges  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
-  <a href="https://archiveprogram.github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40" alt="Arctic Code Vault Contributor" />
-  </a>
-  <a href="https://stars.github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35" alt="Star Contributor" />
-  </a>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/MukitHossen7)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MukitHossen7)  
