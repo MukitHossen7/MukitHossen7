@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mukit Hossen
-![I am a Front-end React Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Front-end React Developer](/1737993502506.jpg)
 
 
 #### 🚀 About Me  
