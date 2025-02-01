@@ -2,15 +2,14 @@
 ![I am a Front-end React Developer](/1737993502506.jpg)
 
 
-#### 🚀 About Me  
+## About Me  
 I am a **Front-end React Developer** passionate about building modern, responsive, and user-friendly web applications. I specialize in **React**, **TailwindCSS**, and **MongoDB** while maintaining a strong foundation in **HTML5**, **CSS3**, and **JavaScript (ES6)**.  
 
-🌱 Currently learning **Next.js** and deepening my knowledge in the MERN stack.
-
-💼 Open to collaborating on exciting projects and contributing to the open-source community.  
+🌱I'm Currently learning **Next.js** and deepening my knowledge in the **MERN stack**.
 
 
-### 🛠️ Skills  
+
+## Languages and Tools:  
 
 <div align="left" margin-right="2px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
@@ -26,7 +25,7 @@ I am a **Front-end React Developer** passionate about building modern, responsiv
 </div>
 
 
-### 🌐 Connect with Me  
+## Connect with Me: 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mukit-hossen/" target="_blank">
@@ -41,12 +40,12 @@ I am a **Front-end React Developer** passionate about building modern, responsiv
 </div>
 
 
-### 🏆 Achievements  
+## Achievements  
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=MukitHossen7&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### 📊 GitHub Stats  
+## GitHub Stats  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7)](https://github.com/anuraghazra/github-readme-stats)
 
