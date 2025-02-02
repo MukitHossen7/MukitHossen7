@@ -57,7 +57,7 @@
 
 ## Achievements  
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MukitHossen7&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=MukitHossen7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats  
 
@@ -69,9 +69,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&hide_title=true&theme=radical" alt="Top Languages" />
   </a>
 </div>
+</br>
  <div style="width: 100%">
-  <img src="https://streak-stats.demolab.com/?user=MukitHossen7" alt="GitHub streak stats" style="width: 100%;" />
+  <img src="https://streak-stats.demolab.com/?user=MukitHossen7&theme=radical" alt="GitHub streak stats"  style="width: 100%"  />
 </div>
-
 
 ![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)
