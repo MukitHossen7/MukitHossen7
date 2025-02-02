@@ -70,8 +70,8 @@
   </a>
 </div>
 </br>
- <div style="width: 100%">
-  <img src="https://streak-stats.demolab.com/?user=MukitHossen7&theme=radical" alt="GitHub streak stats"  style="width: 100%"  />
+ <div>
+  <img src="https://streak-stats.demolab.com/?user=MukitHossen7&theme=radical" alt="GitHub streak stats" />
 </div>
 
 ![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)
