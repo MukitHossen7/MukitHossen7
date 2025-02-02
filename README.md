@@ -61,10 +61,17 @@
 
 ## GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between; width: 100%; height: auto;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&hide_title=true&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+ <div style="width: 100%">
+  <img src="https://streak-stats.demolab.com/?user=MukitHossen7" alt="GitHub streak stats" style="width: 100%;" />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MukitHossen7)  
