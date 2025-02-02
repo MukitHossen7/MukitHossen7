@@ -65,6 +65,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)  
+![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MukitHossen7)  
