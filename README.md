@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Mukit Hossen
-![I am a Front-end React Developer](/1737993502506.jpg)
-
+![I am a Front-end React Developer](/banner.webp)
 
 ## About Me  
 **I am a Front-end React Developer passionate about building modern, responsive, and user-friendly web applications. I specialize in React ,TailwindCSS while maintaining a strong foundation in HTML5, CSS3, and JavaScript (ES6).**  
