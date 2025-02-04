@@ -22,8 +22,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -69,9 +67,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&hide_title=true&theme=radical" alt="Top Languages" />
   </a>
 </div>
-</br>
- <div>
-  <img src="https://streak-stats.demolab.com/?user=MukitHossen7&theme=radical" alt="GitHub streak stats" />
-</div>
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)
