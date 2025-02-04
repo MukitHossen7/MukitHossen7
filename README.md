@@ -2,7 +2,7 @@
 ![I am a Front-end React Developer](/banner-canva.jpg)
 
 ## About Me  
-**I am a Front-end React Developer passionate about building modern, responsive, and user-friendly web applications. I specialize in React ,TailwindCSS while maintaining a strong foundation in HTML5, CSS3, and JavaScript (ES6).**  
+**I am a Front-End Developer passionate about building modern, responsive, and user-friendly web applications. I specialize in React ,TailwindCSS while maintaining a strong foundation in HTML5, CSS3, and JavaScript (ES6).**  
 
 🌱I'm Currently learning **Next.js** and deepening my knowledge in the **MERN stack**.
 
