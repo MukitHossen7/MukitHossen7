@@ -2,9 +2,9 @@
 ![I am a Front-end React Developer](/github-banner.png)
 
 ## About Me  
-**I am a Front-End Developer passionate about building modern, responsive, and user-friendly web applications. I specialize in React, TailwindCSS while maintaining a strong foundation in HTML5, CSS3, and JavaScript (ES6).**  
+**I'm a Full Stack Developer working across the JavaScript ecosystem. I enjoy building interfaces with Next.js and designing efficient backends with Node.js, Prisma, and PostgreSQL.**  
 
-🌱I'm Currently learning **Next.js** and deepening my knowledge in the **MERN stack**.
+🌱I'm Currently learning **DSA**  and deepening my knowledge in the **Backend**.
 
 
 ## Languages and Tools:  
