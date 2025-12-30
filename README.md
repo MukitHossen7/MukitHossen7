@@ -4,7 +4,7 @@
 ## About Me  
 **I'm a Full Stack Developer working across the JavaScript ecosystem. I enjoy building interfaces with Next.js and designing efficient backends with Node.js, Prisma, and PostgreSQL.**  
 
-🌱I'm Currently learning **DSA**  and deepening my knowledge in the **Backend**.
+🌱Leveling up my **backend skills** and mastering **DSA** to build more scalable and optimized systems..
 
 
 ## Languages and Tools:  
