@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mukit Hossen
-![I am a Front-end React Developer](/github-banner.png)
+![I am a Front-end React Developer](/github.png)
 
 ## About Me  
 **I'm a Full Stack Developer working across the JavaScript ecosystem. I enjoy building interfaces with Next.js and designing efficient backends with Node.js, Prisma, and PostgreSQL.**  
