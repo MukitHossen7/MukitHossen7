@@ -33,25 +33,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-## Connect with Me: 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mukithossen" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/mukithossen" target="_blank" rel="noopener noreferrer">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:hossenmukit7@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/01326153447" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="35" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.facebook.com/mukit.hossen.487594" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="35" alt="facebook logo" />
-  </a>
-</div>
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
 
@@ -111,34 +93,26 @@
 
 <hr/>
 
-## 💫 About Me
-**I'm a Full Stack Developer working across the JavaScript ecosystem. I enjoy building interfaces with Next.js and designing efficient backends with Node.js, Prisma, and PostgreSQL.**
 
-- 🌱 Leveling up my **backend skills** and mastering **DSA** to build more scalable systems.
-- 💬 Ask me about **React, Next.js, and Node.js.**
-- 📧 Reach me at: **hossenmukit7@gmail.com**
-
-<br/>
 
 ## 🌐 Connect with Me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/mukithossen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/mukithossen" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/users/mukithossen" target="_blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord" />
+  <a href="https://discord.com/users/mukithossen" target="_blank" rel="noopener noreferrer">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="35" alt="discord logo" />
   </a>
   <a href="mailto:hossenmukit7@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="35" alt="gmail logo" />
   </a>
-  <a href="https://wa.me/01326153447" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" height="35" alt="whatsapp" />
+  <a href="https://wa.me/01326153447" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="35" alt="whatsapp logo" />
   </a>
-  <a href="https://www.facebook.com/mukit.hossen.487594" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="35" alt="facebook" />
+  <a href="https://www.facebook.com/mukit.hossen.487594" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="35" alt="facebook logo" />
   </a>
 </div>
-
 <br/>
 
 <!-- Daily.dev Card (Optional) -->
