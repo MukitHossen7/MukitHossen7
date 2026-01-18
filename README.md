@@ -29,36 +29,8 @@
 </div>
 <br/>
 
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
-
-<div style="display: flex; justify-content: space-between; width: 100%; height: auto;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&hide_title=true&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)
-
-
-
-<div align="center">
-
-# Hi there 👋, I'm Mukit Hossen
-![I am a Front-end React Developer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70)
-
-<!-- উপরের আইকনগুলো -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,tailwind,bootstrap,git,github,vscode,figma,postman)](https://skillicons.dev)
-
-<br/>
-
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukitHossen7&theme=radical&hide_border=true" alt="Mukit's Streak" />
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
 
 <br/>
 
@@ -83,12 +55,6 @@
 
 <!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MukitHossen7&color=green&style=flat-square)
-
-</div>
-
-<hr/>
-
-
 
 ## 🌐 Connect with Me:
 <div align="left">
@@ -116,3 +82,13 @@
 <br/>
 
 <p align="center">Thanks for visiting! 🚀 ✨</p>
+
+
+
+
+
+
+
+
+
+
