@@ -29,10 +29,13 @@
 </div>
 <br/>
 
-<!-- Streak Stats -->
-<div width="100%">
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
-</div>
+<!-- Streak Stats - Full Width and Dynamic -->
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
+</a>
+
+<br/>
+
 <!-- Contribution Graph (Wavy Style) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MukitHossen7&theme=react-dark&area=true&hide_border=true" width="100%" />
 
