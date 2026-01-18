@@ -30,23 +30,20 @@
 <br/>
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
-
-<br/>
-
+<div width="100%">
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
+</div>
 <!-- Contribution Graph (Wavy Style) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MukitHossen7&theme=react-dark&area=true&hide_border=true" width="100%" />
-
-<br/>
 
 <!-- Stats and Languages (Side by Side) -->
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="100%" alt="Most Used Languages" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
