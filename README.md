@@ -11,9 +11,9 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
