@@ -67,3 +67,83 @@
 
 
 ![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)
+
+
+
+<div align="center">
+
+# Hi there 👋, I'm Mukit Hossen
+![I am a Front-end React Developer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70)
+
+<!-- উপরের আইকনগুলো -->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,nextjs,tailwind,bootstrap,git,github,vscode,figma,postman)](https://skillicons.dev)
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukitHossen7&theme=radical&hide_border=true" alt="Mukit's Streak" />
+
+<br/>
+
+<!-- Contribution Graph (Wavy Style) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukitHossen7&theme=react-dark&area=true&hide_border=true" width="100%" />
+
+<br/>
+
+<!-- Stats and Languages (Side by Side) -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Profile Views Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=MukitHossen7&color=green&style=flat-square)
+
+</div>
+
+<hr/>
+
+## 💫 About Me
+**I'm a Full Stack Developer working across the JavaScript ecosystem. I enjoy building interfaces with Next.js and designing efficient backends with Node.js, Prisma, and PostgreSQL.**
+
+- 🌱 Leveling up my **backend skills** and mastering **DSA** to build more scalable systems.
+- 💬 Ask me about **React, Next.js, and Node.js.**
+- 📧 Reach me at: **hossenmukit7@gmail.com**
+
+<br/>
+
+## 🌐 Connect with Me:
+<div align="left">
+  <a href="https://www.linkedin.com/in/mukithossen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin" />
+  </a>
+  <a href="https://discord.com/users/mukithossen" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord" />
+  </a>
+  <a href="mailto:hossenmukit7@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail" />
+  </a>
+  <a href="https://wa.me/01326153447" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" height="35" alt="whatsapp" />
+  </a>
+  <a href="https://www.facebook.com/mukit.hossen.487594" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="35" alt="facebook" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Daily.dev Card (Optional) -->
+<a href="https://app.daily.dev/mukithossen"><img src="https://api.daily.dev/widgets/posts?type=trending&categories=webdev,javascript,performance,frontend,nodejs" width="400" alt="Mukit's Reading List" /></a>
+
+<br/>
+
+<p align="center">Thanks for visiting! 🚀 ✨</p>
