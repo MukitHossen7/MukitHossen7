@@ -33,7 +33,7 @@
 <div align="center">
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical&hide_border=true" width="750" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
   </a>
   <br/>
 </div>
