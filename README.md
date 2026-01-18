@@ -7,7 +7,7 @@
 🌱Leveling up my **backend skills** and mastering **DSA** to build more scalable and optimized systems..
 
 
-## Languages and Tools:  
+## Languages and Tools  
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -38,24 +38,18 @@
 </div>
 
 <!-- Contribution Graph (Wavy Style) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukitHossen7&theme=react-dark&area=true&hide_border=true&border_radius=5&card_width=1000" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MukitHossen7&theme=react-dark&area=true&hide_border=true" width="100%" />
 
 <!-- Stats and Languages (Side by Side) -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="100%" alt="Most Used Languages" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
+</div>
 
 <!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MukitHossen7&color=green&style=flat-square)
 
-## Connect with Me:
+## Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/mukithossen" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo" />
