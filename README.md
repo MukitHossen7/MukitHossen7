@@ -40,11 +40,12 @@
 <!-- Contribution Graph (Wavy Style) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MukitHossen7&theme=react-dark&area=true&hide_border=true" width="100%" />
 
-<!-- Stats and Languages (Side by Side) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
-</div>
+<!-- Stats and Languages (Side by Side - Fixed Width for Clarity) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="435" alt="Most Used Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="435" alt="GitHub Stats" />
+</p>
 
 <!-- Profile Views Badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MukitHossen7&color=green&style=flat-square)
