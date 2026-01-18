@@ -31,9 +31,11 @@
 
 <!-- Streak Stats - Full Width and Dynamic -->
 <div align="center">
+  <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical&hide_border=true" width="850" alt="GitHub Streak" />
   </a>
+  <br/>
 </div>
 
 <!-- Contribution Graph (Wavy Style) -->
