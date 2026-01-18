@@ -55,9 +55,9 @@
 
 <!-- Stats and Languages (Side by Side - Fixed Width for Clarity) -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="435" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukitHossen7&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="435" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MukitHossen7&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
 </div>
 
 <!-- Profile Views Badge -->
