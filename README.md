@@ -3,7 +3,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;Next.js+%26+Node.js+Expert;Problem+Solver;Building+Scalable+Apps" alt="Typing SVG" />
 </div>
-  
+
+## About Me
 **I'm a Full Stack Developer working across the JavaScript ecosystem. I enjoy building interfaces with Next.js and designing efficient backends with Node.js, Prisma, and PostgreSQL.**  
 
 🌱Leveling up my **backend skills** and mastering **DSA** to build more scalable and optimized systems..
