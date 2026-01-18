@@ -2,7 +2,6 @@
 ![I am a Front-end React Developer](/github.png)
 
 <div align="center">
-<img src="https://i.ibb.co/s9V1c0D6/github.png" alt="Mukit's Banner" width="100%" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%26+Node.js+Expert;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
