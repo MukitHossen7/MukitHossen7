@@ -58,6 +58,7 @@
 [![Trophy](https://github-profile-trophy.vercel.app/?username=MukitHossen7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
 
 <div style="display: flex; justify-content: space-between; width: 100%; height: auto;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 50%">
@@ -68,6 +69,6 @@
   </a>
 </div>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical)](https://git.io/streak-stats)
+
 
 ![GitHub metrics](https://metrics.lecoq.io/?username=MukitHossen7)
