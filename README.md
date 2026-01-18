@@ -27,13 +27,12 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
-<br/>
 
 <!-- Streak Stats - Full Width and Dynamic -->
 <div align="center">
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukitHossen7&theme=radical&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
   </a>
   <br/>
 </div>
