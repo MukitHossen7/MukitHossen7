@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mukit Hossen
+### Hey there 👋
 ![I am a Front-end React Developer](/github.png)
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;Next.js+%26+Node.js+Expert;Problem+Solver;Building+Scalable+Apps" alt="Typing SVG" />
