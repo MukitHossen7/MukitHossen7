@@ -44,19 +44,13 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MukitHossen7&theme=radical&hide_border=true&border_radius=3&card_width=1000&card_height=200)](https://git.io/streak-stats)
 <!-- Streak Stats - Full Width and Dynamic -->
 <div align="left">
   <br/>
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=MukitHossen7&theme=radical&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
-  </a>
-  <br/>
-</div>
-
-<div align="left">
-  <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MukitHossen7&theme=radical&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
   </a>
   <br/>
 </div>
