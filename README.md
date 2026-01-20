@@ -44,8 +44,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MukitHossen7&theme=radical&hide_border=true&border_radius=3&card_width=1000&card_height=200" alt="GitHub Streak" /></a>
 <!-- Streak Stats - Full Width and Dynamic -->
 <div align="left">
   <br/>
